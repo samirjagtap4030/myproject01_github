@@ -1,27 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-17T22:05:56 EDT" name="Default suite" finished-at="2023-07-17T22:06:29 EDT" duration-ms="32679">
+  <suite started-at="2023-12-29T19:24:47 IST" name="Default suite" finished-at="2023-12-29T19:25:12 IST" duration-ms="25171">
     <groups>
     </groups>
-    <test started-at="2023-07-17T22:05:56 EDT" name="Default test" finished-at="2023-07-17T22:06:29 EDT" duration-ms="32679">
-      <class name="testcase.TC_Login">
-        <test-method signature="LoginTest()[pri:0, instance:testcase.TC_Login@4b8ee4de]" started-at="2023-07-17T22:05:56 EDT" name="LoginTest" finished-at="2023-07-17T22:06:29 EDT" duration-ms="32569" status="PASS">
+    <test started-at="2023-12-29T19:24:47 IST" name="Default test" finished-at="2023-12-29T19:25:12 IST" duration-ms="25171">
+      <class name="com.sdet.TC_Login">
+        <test-method signature="login_Test()[pri:0, instance:com.sdet.TC_Login@33065d67]" started-at="2023-12-29T19:24:47 IST" name="login_Test" finished-at="2023-12-29T19:25:12 IST" duration-ms="25114" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginTest -->
-      </class> <!-- testcase.TC_Login -->
-      <class name="testcase.AppTest">
-        <test-method signature="testlogin1()[pri:0, instance:testcase.AppTest@52b1beb6]" started-at="2023-07-17T22:06:29 EDT" name="testlogin1" finished-at="2023-07-17T22:06:29 EDT" duration-ms="34" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testlogin1 -->
-        <test-method signature="testlogin2()[pri:0, instance:testcase.AppTest@52b1beb6]" started-at="2023-07-17T22:06:29 EDT" name="testlogin2" finished-at="2023-07-17T22:06:29 EDT" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testlogin2 -->
-      </class> <!-- testcase.AppTest -->
+        </test-method> <!-- login_Test -->
+      </class> <!-- com.sdet.TC_Login -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

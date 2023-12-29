@@ -1,2 +1,2 @@
- cd  C:\Users\Admin\eclipse-workspace1\myproject
+ cd C:\Users\Admin\Desktop\eclipse-workspace1\myproject
  mvn test
