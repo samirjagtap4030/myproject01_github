@@ -25,4 +25,11 @@ public class TC_003
 		System.out.println("iosApp2");
 		System.out.println("iosApp3");
 	}
+	
+	public void iosApp24() {
+		System.out.println("iosApp1");
+		System.out.println("iosApp2");
+		System.out.println("iosApp3");
+	}
+	
 }
